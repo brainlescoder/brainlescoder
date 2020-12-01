@@ -1,5 +1,4 @@
 ## Hi there 👋
-## This is Pritam.
 <!--
 **brainlescoder/brainlescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub followers](https://img.shields.io/github/followers/brainlescoder?label=Follow&style=social)](https://github.com/brainlescoder/?tab=follow)<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainlescoder" alt="brainlescoder" /> </p>
