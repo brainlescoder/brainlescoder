@@ -2,10 +2,12 @@
 ## This is Pritam.
 <!--
 **brainlescoder/brainlescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub followers](https://img.shields.io/github/followers/brainlescoder?label=Follow&style=social)](https://github.com/brainlescoder/?tab=follow)<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainlescoder" alt="brainlescoder" /> </p>
 
 Here are some ideas to get you started:
 -->
+[![GitHub followers](https://img.shields.io/github/followers/brainlescoder?label=Follow&style=social)](https://github.com/brainlescoder/?tab=follow)<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainlescoder" alt="brainlescoder" /> </p>
+
 - 🔭 I’m currently working on  
      #### ML project...
 - 🌱 I’m currently learning ...
@@ -15,8 +17,8 @@ Here are some ideas to get you started:
      #### data science project ideas...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚡ Fun fact: Nothing is funny.
 
 </p>
 <p align = "center">
