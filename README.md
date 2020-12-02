@@ -14,10 +14,10 @@ Here are some ideas to get you started:
      #### any project related to ml, dl, ai, if you need any help in your project//ping me...
 - 🤔 I’m looking for help with 
      #### data science project ideas...
-- 💬 Ask me about .
-- 📫 How to reach me: .
+- 💬 Ask me about ..
+- 📫 How to reach me: ..
 
-- ⚡ Fun fact: Nothing is funny.
+- ⚡ Fun fact: Nothing is funny..
 
 </p>
 <p align = "center">
