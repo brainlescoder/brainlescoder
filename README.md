@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 [![GitHub followers](https://img.shields.io/github/followers/brainlescoder?label=Follow&style=social)](https://github.com/brainlescoder/?tab=follow)<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainlescoder" alt="brainlescoder" /> </p>
 
-- 🔭 I’m currently working on  
+<!--- 🔭 I’m currently working on  
      #### ML project...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 
 - ⚡ Fun fact: Nothing is funny..
-
+-->
 </p>
 <p align = "center">
   
