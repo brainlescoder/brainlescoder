@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 
-- ⚡ Fun fact: Nothing is funny..
+- ⚡ Fun fact: Nothing is funny..fsdafd
 -->
 </p>
 <p align = "center">
