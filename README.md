@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      #### data science project ideas..
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
-try
+
 - ⚡ Fun fact: Nothing is funny..
 -->
 </p>
